@@ -1,0 +1,134 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "category": "body lotion",
+      "fields": {
+        "title": "Beige summer dress, Mia",
+        "price": 129.00,
+        "image": {
+          "fields": {
+            "file": { "url": "./products2/w1/1.webp" }
+          }
+        }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "category": "body lotion",
+      "fields": {
+        "title": "Long sleeve knitted top with ties, Sara",
+        "price": 79.00,
+        "image": {
+          "fields": {
+            "file": { "url": "./products2/w2/1.webp" }
+          }
+        }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "category": "body lotion",
+      "fields": {
+        "title": "Bright top with daisies, Rori",
+        "price": 89.00,
+        "image": {
+          "fields": {
+            "file": { "url": "./products2/w3/1.webp" }
+          }
+        }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "category": "body lotion",
+      "fields": {
+        "title": "Long beach dress, Kira",
+        "price": 119.00,
+        "image": {
+          "fields": {
+            "file": { "url": "./products2/w4/1.webp" }
+          }
+        }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "category": "body lotion",
+      "fields": {
+        "title": "Long beach dress, Sasha",
+        "price": 125.00,
+        "image": {
+          "fields": {
+            "file": { "url": "./products2/w5/1.webp" }
+          }
+        }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "category": "body lotion",
+      "fields": {
+        "title": "Long beach dress, Kristi",
+        "price": 115.00,
+        "image": {
+          "fields": {
+            "file": { "url": "./products2/w6/1.webp" }
+          }
+        }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "category": "body lotion",
+      "fields": {
+        "title": "Knitted upper skirt with a floral pattern, Erika",
+        "price": 149.00,
+        "image": {
+          "fields": {
+            "file": { "url": "./products2/w7/1.webp" }
+          }
+        }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "category": "body lotion",
+      "fields": {
+        "title": "Top with long sleeves and different lengths, Annet",
+        "price": 99.00,
+        "image": {
+          "fields": {
+            "file": { "url": "./products2/w8/1.webp" }
+          }
+        }
+      }
+    },
+    {
+      "sys": { "id": "9" },
+      "category": "body lotion",
+      "fields": {
+        "title": "Short top with long sleeves, Chloe",
+        "price": 89.00,
+        "image": {
+          "fields": {
+            "file": { "url": "./products2/w9/1.webp" }
+          }
+        }
+      }
+    },
+    {
+      "sys": { "id": "10" },
+      "category": "body lotion",
+      "fields": {
+        "title": "Short top, tie in the front, Nona",
+        "price": 59.00,
+        "image": {
+          "fields": {
+            "file": { "url": "./products2/w10/1.webp" }
+          }
+        }
+      }
+    }
+  ]
+}
