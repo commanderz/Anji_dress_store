@@ -16,7 +16,7 @@
   "../../../@vite-plugin-pages/route-block": [
   ],
   "../../../@vite-plugin-pwa/virtual:pwa-register": [
-    "/assets/virtual_pwa-register-df312c04.js"
+    "/assets/virtual_pwa-register-80e738c2.js"
   ],
   "../../../@vite-plugin-vue-layouts/generated-layouts": [
   ],
@@ -144,15 +144,15 @@
   "src/components/NavLink.vue": [
   ],
   "src/components/TheFooter.vue": [
-    "/assets/default0-cbab6b46.js",
+    "/assets/default0-4deb9c30.js",
     "/assets/default0-145b0695.css"
   ],
   "src/components/TheFooter.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/default0-cbab6b46.js",
+    "/assets/default0-4deb9c30.js",
     "/assets/default0-145b0695.css"
   ],
   "src/components/TheFooter.vue?vue&type=style&index=0&scope=true&lang.css": [
-    "/assets/default0-cbab6b46.js",
+    "/assets/default0-4deb9c30.js",
     "/assets/default0-145b0695.css"
   ],
   "src/components/base/BaseButton.vue": [
@@ -176,21 +176,21 @@
   "src/composables/dark.ts": [
   ],
   "src/layouts/404.vue": [
-    "/assets/404-4404b59f.js"
+    "/assets/404-7f3c7d04.js"
   ],
   "src/layouts/404.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/404-4404b59f.js"
+    "/assets/404-7f3c7d04.js"
   ],
   "src/layouts/default.vue": [
   ],
   "src/layouts/default.vue?vue&type=style&index=0&lang.css": [
   ],
   "src/layouts/default0.vue": [
-    "/assets/default0-cbab6b46.js",
+    "/assets/default0-4deb9c30.js",
     "/assets/default0-145b0695.css"
   ],
   "src/layouts/home.vue": [
-    "/assets/home-b8cd3c7a.js"
+    "/assets/home-93875870.js"
   ],
   "src/main.ts": [
   ],
@@ -205,23 +205,27 @@
   "src/modules/smothscroll.ts": [
   ],
   "src/pages/[...all].vue": [
-    "/assets/_...all_-f9e083d8.js"
+    "/assets/_...all_-515f9141.js"
   ],
   "src/pages/[...all].vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/_...all_-f9e083d8.js"
+    "/assets/_...all_-515f9141.js"
   ],
   "src/pages/hi/[name].vue": [
-    "/assets/_name_-299a8fb7.js"
+    "/assets/_name_-e5ce79e7.js"
   ],
   "src/pages/hi/[name].vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/_name_-299a8fb7.js"
+    "/assets/_name_-e5ce79e7.js"
   ],
   "src/pages/index.vue": [
   ],
   "src/pages/index.vue?vue&type=script&setup=true&lang.ts": [
   ],
+  "src/pages/index.vue?vue&type=style&index=0&scope=true&lang.css": [
+  ],
+  "src/pages/index.vue?vue&type=style&index=1&scope=true&lang.scss": [
+  ],
   "src/stores/user.ts": [
-    "/assets/_name_-299a8fb7.js"
+    "/assets/_name_-e5ce79e7.js"
   ],
   "src/styles/atropos.css": [
   ],

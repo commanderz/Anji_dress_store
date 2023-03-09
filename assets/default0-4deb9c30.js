@@ -1,4 +1,4 @@
-import{d as r,a as l,o,c as n,h as i,g as a,r as u,b as t,e as p}from"./app-8aa7d0f6.js";const m={class:"text-xl mt-6 bg-transparent flex w-full"},d=r({__name:"TheFooter",setup(s){return l(),(c,e)=>(o(),n("nav",m,[i(` button
+import{d as r,a as l,o,c as n,h as i,g as a,r as u,b as t,e as p}from"./app-1eeaf78b.js";const m={class:"text-xl mt-6 bg-transparent flex w-full"},d=r({__name:"TheFooter",setup(s){return l(),(c,e)=>(o(),n("nav",m,[i(` button
       class="icon-btn mx-2 !outline-none text-2xl"
       :title="t('button.toggle_dark')"
       @click="toggleDark()"
